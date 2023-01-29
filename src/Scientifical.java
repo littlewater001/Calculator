@@ -32,7 +32,6 @@ public class Scientifical extends JFrame implements ActionListener {
     private LinkedStack<String> op;
     private LinkedStack<Double> figure;
 
-
     public Scientifical() {
         super();
         this.setSize(520, 380);
