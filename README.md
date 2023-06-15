@@ -1,14 +1,3 @@
-计算器
--
-Calculator
--
-这是介绍
-> This is an introduction
-
-此项目的目的是为了练习Java而复刻Win7计算器
-> The purpose of this project is to reproduce the
-> Windows7 Calculator for practicing Java
-
 | 进度      | 是否完成 |
 |---------|------|
 | 标准计算器   | 否    |
